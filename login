@@ -1,0 +1,1 @@
+{"message":"عضویت موفق بود","data":{"phone":"09105050505","id":"688674f00b81da301b4f3cce","role":"user","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNjg4Njc0ZjAwYjgxZGEzMDFiNGYzY2NlIiwiaWF0IjoxNzUzNjQyMjI2LCJleHAiOjE3NTM3NjIyMjZ9.FkkP1FfLmo0hLdoLoe65OnUrKwKcOvoPBWOx0e2YE_A"},"success":true}
